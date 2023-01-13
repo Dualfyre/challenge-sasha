@@ -1,6 +1,5 @@
 .about-us-container {
   position: relative;
-  z-index:7;
   background-size: cover;
   background-attachment: fixed;
   background-image: url("../../images/divider2.jpg");
