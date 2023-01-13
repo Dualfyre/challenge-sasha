@@ -1,0 +1,82 @@
+.home-container {
+  position: relative;
+  height: 76vh;
+  display: flex;
+  padding-left: 5px;
+  padding-top: 230px;
+  background-color: #f1eae5;
+}
+
+.left-border {
+  z-index: 5;
+  position: absolute;
+  top: 1%;
+  margin-left: 15px;
+  height: 98%;
+  border-left: 1px solid #7f4f24
+}
+
+.left-border-txt {
+  z-index:6;
+  position: absolute;
+  top: 82%;
+  margin-left: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+  letter-spacing: 2px;
+  color: #7f4f24;
+  background-color: #f1eae5;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+
+.order-container {
+  padding-left: 115px;
+  color: #7f4f24;
+  font-weight: bold;
+  display: block;
+}
+
+.order-title {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-size: 50px;
+}
+
+.order-description {
+  width: 250px;
+}
+
+.order-btn {
+  width: 250px;
+  padding: 15px;
+  color: #fff;
+  font-weight: bold;
+  letter-spacing: 1px;
+  border: 0;
+  outline: 0;
+  border-radius: 6px;
+  background-color: #e8962f;
+  align-content: center;
+}
+
+.order-btn:hover {
+  background-color: #be873e;
+}
+
+.cacao-img {
+  z-index:6;
+  height: 240px; 
+}
+
+.ice-cream-img{
+  z-index: 8;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  width: 1060px;
+}
+
+.panna-logo-l {
+  height: 180px;
+}

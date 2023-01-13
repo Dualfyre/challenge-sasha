@@ -1,0 +1,6 @@
+export { default as cacaoImg } from './cacao.png'
+export { default as icecreamImg } from './ice_cream.png'
+export { default as pedidosyaLogoS } from './menu_pedidos_ya.svg'
+export { default as rappiLogoS } from './menu_rappi.svg'
+export { default as pannaLogoM } from './panna_logo_p.svg'
+export { default as pannaLogoL } from './panna_logo.svg'
